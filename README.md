@@ -30,7 +30,7 @@ DAppStore 提供的小程序加载体验，已集成到App中，是一种Web加�
 |网络请求链接 | 资源路径 |
 | --- | --- |
 | https://app.uniswap.org/locales/zh.json  | /otherfiles/zh.json|
-| https://cloudflare-ipfs.com/ipns/tokens.uniswap.org | http://jdgjfile-1251031594.file.myqcloud.com/cd2a23fd5adb0b2f0195128d1c37dc4f.json |
+| https://cloudflare-ipfs.com/ipns/tokens.uniswap.org | https://mydomain.com/cd2a23fd5adb0b2f0195128d1c37dc4f.json |
 
 - 自定义小程序Menu
 
@@ -42,7 +42,7 @@ DAppStore 提供的小程序加载体验，已集成到App中，是一种Web加�
 
 效果如图:
 
-!(image)[/assets/custom_menu.jpeg]
+![image](/assets/custom_menu.jpeg)
 
 
 ## 资源包上传
